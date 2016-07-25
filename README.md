@@ -8,7 +8,7 @@ semantic_trajectory.png       ------ Figure 3
 
 catedata.pdf     ------ Figure 4
 
-Individual.pdf      ------ Figure 4
+Individual.pdf      ------ Figure 5
 
 passflow.pdf        ------ Figure 6
 
