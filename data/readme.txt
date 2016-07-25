@@ -1,8 +1,8 @@
-The sampletrain.txt and sampletest.txt are sample files of train and test separated by ",". 
+The sampletrain_*.txt and sampletest.txt are sample files of train and test separated by ",". 
 
 
 
-In the passengers's boarding choice folder,  the files have 213 columns. The 1st and 2nd are Card_id and Line_name. The 3rd is Label. After that are the features.
+In the passengers's boarding choice folder,  the files have 213 columns. sampletrain_change.txt and sampletrain_changeless.txt are sample train data of unfixed bus line passengers  and fixed bus line passengers. The 1st and 2nd are Card_id and Line_name. The 3rd is Label. After that are the features.
 
  The 4-33th columns are features of passenger. 
  The 34-63th columns are features of bus. 
